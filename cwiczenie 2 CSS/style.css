@@ -2,5 +2,19 @@ body{
 background-color:cyan;
 }
 h1{
-    color:brown
+    color:brown;
+}
+div{
+    border:5px dashed green;
+}
+.Glowny{
+    border: 6px dashed orangered;
+display:flex;
+justify-content: space-evenly;
+}
+img{
+    width:100%;
+}
+.Glowny div{
+width:20%;
 }
