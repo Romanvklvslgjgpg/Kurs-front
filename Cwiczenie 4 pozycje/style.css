@@ -45,3 +45,9 @@ body div{
     opacity: 0;
     transition: 1s;
 }
+@media (max-width:720px){
+    .flexContainer div{
+    width:60vw;
+    height:60vw;
+
+}
