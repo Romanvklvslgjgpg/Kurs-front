@@ -18,3 +18,13 @@ img{
 .Glowny div{
 width:20%;
 }
+.Pelny{
+    border:5px dashed rgb(167, 96, 233);
+}
+.img{
+    width:50%;
+}
+.desc{
+    width:50%;
+    margin-right: auto;
+}

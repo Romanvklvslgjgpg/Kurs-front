@@ -1,0 +1,21 @@
+body{
+}
+body div{
+    border:3px dashed blue;
+}
+.flexContainer{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:3%;
+    background-color:orangered;
+}
+.flexContainer div{
+    width:30vw;
+    height:30vw;
+    margin:3%;
+}
+.flexContainer div .img{
+    background-image: url(https://github.com/apietryga/kurs-Front-end/blob/master/materialy/lekcja2/cw2/lew.jpg?raw=true);
+    background-size: cover;
+}
