@@ -2,7 +2,7 @@ body{
     background-color: gray;
 }
 a{
-    border: 2px dashed black
+    border: 2px dashed black;
     text-decoration:none;
     color:inherit;
 }
